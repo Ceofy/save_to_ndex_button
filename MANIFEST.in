@@ -1,0 +1,7 @@
+include save_to_ndex_button/save_to_ndex_button.min.js
+include save_to_ndex_button/save_to_ndex_button.min.js.map
+include save_to_ndex_button/metadata.json
+include save_to_ndex_button/package-info.json
+include README.md
+include LICENSE
+include package.json
